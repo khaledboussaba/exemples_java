@@ -1,4 +1,4 @@
-package fr.Conacat;
+package fr.Concat;
 
 public class ConcatIncorrecte {
 
